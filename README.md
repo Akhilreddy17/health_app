@@ -1,6 +1,8 @@
 # Health Application
 <br>
+
 ## Project Graduate Directed Project Team: 
+
 *	Jaswanthi Nannuru – Project Manager
 *	Rudra Teja Potturi – Database Analyst and Android Developer
 *	Sai Nikhil Pippara – Software Developer
