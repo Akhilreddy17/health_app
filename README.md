@@ -11,8 +11,8 @@
 *	Akhilkumar Reddy Busireddy – Web Developer
 <br>
 
-## Project Client: Dr. Rhonda Cross Beemer
-    Assistant Professor, School of Health Science and Wellness 
+## Project Client: 
+    Dr. Rhonda Cross Beemer - Assistant Professor, School of Health Science and Wellness 
 <br>
 
 ## Project Description: 
