@@ -15,6 +15,19 @@
     Assistant Professor, School of Health Science and Wellness 
 <br>
 ## Project Description: 
+
 *	Northwest Health app is an application program that offers health-related services for Android smartphones.
-*	Northwest Health Application is a tool for storing, managing and sharing health information in wellness by an individual in a secure and   confidential environment. All the data into the Health Application is entered manually by an individual Android User.
+*	Northwest Health Application is a tool for storing, managing and sharing health information in wellness by an individual in a secure       and confidential environment. All the data into the Health Application is entered manually by an individual Android User.
+<br>
+### Android Application:
+
+*	Android Application is where we can store and manage one’s own health information.
+*	We can keep track of
+1.	Step Count
+2.	Hydration
+3.	Vegetable Servings
+4.	Fruit Servings
+5.	Calories Consumed
+6.	Sleep Hours
+
 
