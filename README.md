@@ -14,8 +14,8 @@
 ## Project Client: Dr. Rhonda Cross Beemer
     Assistant Professor, School of Health Science and Wellness 
 <br>
-## Project Description: 
 
+## Project Description: 
 *	Northwest Health app is an application program that offers health-related services for Android smartphones.
 *	Northwest Health Application is a tool for storing, managing and sharing health information in wellness by an individual in a secure       and confidential environment. All the data into the Health Application is entered manually by an individual Android User.
 <br>
